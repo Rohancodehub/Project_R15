@@ -3,6 +3,6 @@ void main()
 {
 printf("Hello world");
   printf("Pulled to Sub_1");
-  printf("okay");
+ // printf("okay");
 return;
 }
